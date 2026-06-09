@@ -1,22 +1,145 @@
-So, as i understand it: one, one plus one, x plus one, and "solve for x" are all considered "expressions".
+
+So, as i understand it: 
+
+one, one plus one, x plus one, and "solve for x" are all considered 
+
+"Expressions"
+
 And an expression is considered a "symbol" or a finite combination of symbols arranged to represent values.
 
+In an expression, no equality symbol or inequality symbol ever exist. 
 
-In an expression no equality symbol inequality symbol ever exist. If an inequality symbol is present such as in five greater than four this is called an inequality.
+If an inequality symbol is present such as in five greater than four this is called an 
 
- Which is a statement that two expressions are unequal. Whereas if an unequal sign is present such as 1 + 1 equaling 2 or 1 plus 1 equaling 2 + 0, this is considered an equation which is a statement that two expressions are equal. 
+"Inequality"
 
-An equation must have an = by definition. Mathematics, a specific expression or group of expressions considered aim of the meaningful statement if organized correctly. A mathematical statement is a declarative sentence that is unequivocally either true or false, but not both. 
+Which is a statement that two expressions are unequal. 
 
-A true statement, a true mathematical statement for example would be "1+1=2", and the sentence "five is a prime number". Whereas a false mathematical statement would be "one is equal to two" or "five is not a prime number". One mathematical statement that would be neither would be a statement like "one is equal to-" or the sentence "the chimp is running". Now if we consider the equation one plus X is equal to two, This mathematical statement can either be true false or neither depending on X. 
+Whereas if an unequal sign is present such as 1 + 1 = 2 or 1 + 1 = 2 + 0, this is considered an 
 
-X is considered a variable Two were considered constants numerical const Which are different from alphabetical constants according to Rene Descartes, who is responsible for having developed the alphabetical system to annotate mathematical variables or Constants given the context of an equation or formula. 
+"Equation" 
+
+which is a statement that two expressions are equal. 
+
+An equation must have an = by definition. 
+
+In mathematics, a specific expression or group of expressions can be considered mathematical statement if organized correctly. A mathematical statement is a declarative sentence that is unequivocally either true or false, but not both. 
+
+A true statement, a true mathematical statement for example would be "1+1=2", and the sentence "five is a prime number". Whereas a false mathematical statement would be "one is equal to two" or "five is not a prime number". One mathematical statement that would be neither would be a statement like "one is equal to-" or the sentence "the chimp is jumping". 
+
+Now if we consider the equation one plus X is equal to two, this mathematical statement can either be true false or neither depending on X. 
+
+X is considered a variable while 1 and 2 are considered constants. specifically 
+
+"numerical constants"
+
+Which are different from 
+
+"alphabetical constants" 
+
+according to Rene Descartes, who is responsible for having developed the alphabetical system to annotate mathematical variables or Constants given the context of an equation or formula. 
 
 The general rule is: if you have letters starting with the beginning of the alphabet then more than likely this letter is going to be a constant while, if you deal with letters like X, Y or Z these are more likely going to be variables in an equation or formula.
 
-Well an equation is a statement that two expressions are equal, a formula is more of A structural rule relating 1 mathematical expression to another. A good example of this is the famous E = MC ^2 or Y = mx+B.
+While an equation is a statement that two expressions are equal, a formula is more of A structural rule relating one mathematical expression to another. A good example of this is the famous E = MC ^2 or Y = mx+B.
 
 Technically speaking, the process for solving for X in "1+X=2" is itself a formula as well.
 
-Rene Descartes is also known for bridging the gap between algebra and geometry using the Cartesian plane
+Rene Descartes is also famously known for bridging the gap between algebra and geometry using the Cartesian plane.
+
++++++++++++++
+
+So a Cartesian Plane is a two dimensional flat surface used to graph and locate points using 
+horizontal and vertical axis.
+
+the vertical axis is y, or the output of x 
+
+
++++++++++
+
+
+arguably the most well known formula in linear algebra is the linear equation written as y = mx+b.
+
+This is a formula stating that any vertical position y is found by multiplying the horizontal 
+position (x) by a constant ratio change (m) and adding a starting height (b).
+
+In this equation. b is the starting point, and m is the slope of the straight line. 
+
+
++++++++++
+
+a slightly difficult concept is M, where it is = the change in y/ over the change in x. and this is essentially a ratio of values between 0 and 1.
+where 1 creates this 45 degree angled straight line if m = 1 like in our first example: y = 1x+0
+
+here the m slope ratio is exactly 1 and b or the y-intercept "starting point" = 0
+
+Notice how this line crosses the center of the cartesian plane, because b = 0. 
+
+This vertical line is perfectly diagonal in the plane, and you can notice how every unique x value has exactly one y value. 
+
+This is a perfect example of a "Linear Function", which is a type of function.
+
+To understand the concept of functions, we can look at the same example but replace y with F(x), an annotation method introduced by Lionhard Euler. 
+
+This annotation is EVERYWHERE in calculus but it literally just means "function of x" or a direct result of whatever x is.
+
+In other words: "as x changes, f(x) changes"
+
+This is a core concept of a function: which is a rule that assigns a single predictable output (y) in a co-domain for any input (x) in a domain. because y depends on x.
+
+
+
+++++++
+
+at least in this equation, y is the "dependent variable" that depends on x, which is the "independent variable"
+
+
+this equation is an example of an "explicit function" which is a function where the dependent variable is completely isolated in an equation
+
+this differs from an implicit function, which is a function where the dependent variable is NOT completely isolated in an equation for any reason really like in y+1=1x+0.
+
+heres x = 1 in a cartesian plane, and the first thingh youll notice is that is it a completely vertical line, there is no y in the equation, yet it has y values. 
+This is because, theoretically, in linear algerbra, y can be anything from negative to positive infinity, and x will still be 1. 
+
+
++++++
+
+This is why it does not meet the definition of a function because there is no predictable output (y) for a given input. 
+
+This linear equation completely fails what is known as the "Vertical Line Test", which is a visual way to determine if an equation in a cartesian plane is a function or not. 
+A function can only have one output, y, for each unique input, x, so a vertical line can more clearly tell us if an expression is a funcion or not.
+
+++++++++++++++++++++++++++++++++++
+
+===========================================
+
+
+Here is a cartesian plane for y = 1. This passes the vertical line test as you run a line across the plane, making this a linear function. There is no x in this equation but, just like the last equation, in linear algerbra, x is implied to be present, as x can be anything from negative to positive infinity, and y will stil be 1. 
+
+Here is y=x^2, and passes the vertical line test, making this a function, also because it has one output, y, for each unique input, x. but it is a non-linear function because it curves in a cartesian plane.
+
+Every function we have seen so far is a continuous function: which are functions whose graph is drawn with no gaps, jumps, or holes
+
+++++++++++++++
+
+so while imagining an equation that makes a squiggly line like this is likely a continuous function, 
+an equation that make a loopty-loop is most definitely not a continuous function because this means that there would be duplicate y values for one unique x value right at the top and bottom loop.
+
+
+============
+Although a continuous function might sound limitless, a line doesn't have to be infinite for it To be considered a continuous function.
+
+here is y = x^2 again but where x is restricted to 1,2, and 3. Although this Equation is restricted to three x values, This is a continuous function because there are no gaps jumps or holes when its drawn in a graph.
+
+This contrasts with a discontinuous function, which are functions whose graph forms a broken curve with gaps, jumps, or holes
+
+============
+
+Here's Y = one / X. Notice that when X is equal to zero we have a value of undefined in Y, and breaking the continuity of one line, makes it "discontinuous".
+
+
+/++++++++++++
+One of the trickiest equations to determine whether a this is a continuous function or not is greatest integer function or floor function where y = floor of x, which takes any decimal input and rounds it down to the nearest whole number to get the y value. 
+
+while there are multiple lines in the graph, this equation technically does not break any rules because there is al ways one output, y, for each unique input, x.
 
